@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="accessibility_service_desc">FocusLock uses this service strictly to detect when restricted distracting apps are opened, allowing the habit gate to intercept urge-scrolling and promote scheduled focus.</string>
+    <string name="device_admin_label">FocusLock Commitment Guard</string>
+    <string name="device_admin_description">Prevents impulsive uninstalls during your chosen commitment period to help maintain your focus habits.</string>
+</resources>

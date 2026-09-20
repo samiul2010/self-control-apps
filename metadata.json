@@ -1,0 +1,6 @@
+{
+  "name": "FocusLock",
+  "description": "Habit change and distraction interceptor with an ad-feed replacement, credit economy, and emergency access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
